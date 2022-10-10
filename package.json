@@ -1,0 +1,16 @@
+{
+  "name": "shapes-svg",
+  "version": "1.0.0",
+  "description": "Basic shapes",
+  "private": true,
+  "main": "index.js",
+  "files": [
+    "."
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "DWJ",
+  "license": "Apache-2.0"
+}
